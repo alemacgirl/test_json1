@@ -1,0 +1,114 @@
+[
+    {
+      name "United States",
+      capital "Washington, D.C.",
+      language "English",
+      currency "USD",
+      dial_code "+1",
+      region "Americas"
+    },
+    {
+      name "Canada",
+      capital "Ottawa",
+      language "English, French",
+      currency "CAD",
+      dial_code "+1",
+      region "Americas"
+    },
+    {
+      name "Mexico",
+      capital "Mexico City",
+      language "Spanish",
+      currency "MXN",
+      dial_code "+52",
+      region "Americas"
+    },
+    {
+      name "Brazil",
+      capital "Brasília",
+      language "Portuguese",
+      currency "BRL",
+      dial_code "+55",
+      region "Americas"
+    },
+    {
+      name "Argentina",
+      capital "Buenos Aires",
+      language "Spanish",
+      currency "ARS",
+      dial_code "+54",
+      region "Americas"
+    },
+    {
+      name "United Kingdom",
+      capital "London",
+      language "English",
+      currency "GBP",
+      dial_code "+44",
+      region "Europe"
+    },
+    {
+      name "Germany",
+      capital "Berlin",
+      language "German",
+      currency "EUR",
+      dial_code "+49",
+      region "Europe"
+    },
+    {
+      name "France",
+      capital "Paris",
+      language "French",
+      currency "EUR",
+      dial_code "+33",
+      region "Europe"
+    },
+    {
+      name "Spain",
+      capital "Madrid",
+      language "Spanish",
+      currency "EUR",
+      dial_code "+34",
+      region "Europe"
+    },
+    {
+      name "Italy",
+      capital "Rome",
+      language "Italian",
+      currency "EUR",
+      dial_code "+39",
+      region "Europe"
+    },
+    {
+      name "Russia",
+      capital "Moscow",
+      language "Russian",
+      currency "RUB",
+      dial_code "+7",
+      region "Europe/Asia"
+    },
+    {
+      name "China",
+      capital "Beijing",
+      language "Mandarin",
+      currency "CNY",
+      dial_code "+86",
+      region "Asia"
+    },
+    {
+      name "India",
+      capital "New Delhi",
+      language "Hindi, English",
+      currency "INR",
+      dial_code "+91",
+      region "Asia"
+    },
+    {
+      name "Japan",
+      capital "Tokyo",
+      language "Japanese",
+      currency "JPY",
+      dial_code "+81",
+      region "Asia"
+    }
+]
