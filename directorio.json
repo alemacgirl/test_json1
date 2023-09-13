@@ -1,6 +1,5 @@
 {
-  "seccion": "Direccion",
-  [
+  "Dirección": [
     {
       "puesto": "Directora General",
       "nombre": "Carmen Lira Saade"
@@ -18,8 +17,7 @@
       "nombre": "Guillermina Álvarez"
     }
   ],
-  "seccion": "Coordinaciones",
-  [
+  "Coordinaciones": [
     {
       "puesto": "Información general",
       "nombre": "Rosa Elvira Vargas"
@@ -49,8 +47,7 @@
       "nombre": "Carlos Méndez Orozco"
     }
   ],
-  "seccion" :"Jefaturas",
-  [
+  "Jefaturas": [
     {
       "puesto": "Economía",
       "nombre": "Roberto González Amador"
