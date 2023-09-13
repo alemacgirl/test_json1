@@ -1,0 +1,72 @@
+{
+  "Dirección": [
+    {
+      "puesto": "Directora General",
+      "nombre": "Carmen Lira Saade"
+    },
+    {
+      "puesto": "Director Fundador",
+      "nombre": "Carlos Payán Velver"
+    },
+    {
+      "puesto": "Gerente General",
+      "nombre": "Rosalva Aguilar González"
+    },
+    {
+      "puesto": "Asistente de la dirección",
+      "nombre": "Guillermina Álvarez"
+    }
+  ],
+  "Coordinaciones": [
+    {
+      "puesto": "Información general",
+      "nombre": "Rosa Elvira Vargas"
+    },
+    {
+      "puesto": "Redacción",
+      "nombre": "Margarita Ramírez Mandujano"
+    },
+    {
+      "puesto": "Opinión",
+      "nombre": "Luis Hernández Navarro"
+    },
+    {
+      "puesto": "Arte y diseño",
+      "nombre": "Francisco García Noriega"
+    },
+    {
+      "puesto": "Tecnología y comunicaciones",
+      "nombre": "Lizandro Rodríguez Bárcena"
+    },
+    {
+      "puesto": "Publicidad Estatal y Social",
+      "nombre": "Javier Loza Hernández"
+    },
+    {
+      "puesto": "Publicidad Comercial",
+      "nombre": "Carlos Méndez Orozco"
+    }
+  ],
+  "Jefaturas": [
+    {
+      "puesto": "Economía",
+      "nombre": "Roberto González Amador"
+    },
+    {
+      "puesto": "Mundo",
+      "nombre": "Marcela Aldama"
+    },
+    {
+      "puesto": "Capital",
+      "nombre": "Miguel Ángel Velázquez"
+    },
+    {
+      "puesto": "Cultura",
+      "nombre": "Pablo Espinosa"
+    },
+    {
+      "puesto": "El Correo Ilustrado",
+      "nombre": "Socorro Valadez Morales"
+    }
+  ]
+}
