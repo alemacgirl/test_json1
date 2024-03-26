@@ -1,0 +1,42 @@
+{
+  "_id": "barmessage",
+  "_version": 38,
+  "found": true,
+  "_source": {
+    "uuid": "11005100-df73-4c6a-9ea4-38ec95c148af",
+    "active": false,
+    "content": [
+      {
+        "body": "Imputan por terrorismo a cuatro sospechosos del atentado en Moscú",
+        "title": "8:22",
+        "creatorid": "",
+        "date": "2024-03-25T02:22:57.239Z"
+      },
+      {
+        "body": "Sheinbaum presenta plan de 10 puntos en materia de salud",
+        "title": "8:32",
+        "creatorid": "",
+        "date": "2024-03-25T02:22:57.2392"
+      },
+      {
+        "body": "Morena y aliados piden quitar a López San Martín como moderador del debate",
+        "title": "8:42",
+        "creatorid": "",
+        "date": "2024-03-25T02:22:57.239Z"
+      },
+      {
+        "body": "Presenta Sheinbaum decálogo en materia de salud",
+        "title": "8:52",
+        "creatorid": "",
+        "date": "2024-03-25T02:22:57.239Z"
+      },
+      {
+        "body": "Plantea Brugada instalar 'varios albergues' para migrantes en CDMX",
+        "title": "8:12",
+        "creatorid": "",
+        "date": "2024-03-25T02:22:57.239Z"
+      }
+    ],
+    "modified_date": 1711044363559
+  }
+}
