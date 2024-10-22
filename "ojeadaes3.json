@@ -1,0 +1,43 @@
+{
+  "_id": "ojeadaes.json",
+  "_version": 3,
+  "found": true,
+  "_source": {
+    "uuid": "4e504044-8421-40c5-9a88-3652020a0ffd",
+    "description": "",
+    "create_date": "2024-07-13T14:39:29.517-06:00",
+    "modified_date": "2024-07-13T14:39:29.517-06:00",
+    "owner": "api",
+    "url": "https:/www.jornada.com.mx/ultimas/grid-ojeadaes.json",
+    "contents_status": "publicado",
+    "identifier": "ojeadaes.json",
+    "creator": "api",
+    "tiles": [
+      {
+        "images": {
+          "content_images": [
+            {
+              "description": "",
+              "author": "",
+              "source": ""
+            }
+          ]
+        },
+        "author": "AUTOR",
+        "headline": "HEADLINE",
+        "order": "",
+        "display": true,
+        "uuid": "",
+        "identifier": "",
+        "description": "FLASH NEWS",
+        "type": "A",
+        "url": ""
+      }
+    ],
+    "published_date": "2024-07-13T14:39:29.517-06:00",
+    "extra_data": {
+      "data": ""
+    },
+    "name": "ojeadaes.json"
+  }
+}
