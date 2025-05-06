@@ -28,66 +28,89 @@
           "name": "primeraojeada",
           "items": [
             {
-              "uuid": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
+              "uuid": "conoce-todo-sobre-met-gala",
               "data": {
-                "_id": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
+                "_id": "conoce-todo-sobre-met-gala",
                 "_version": 5,
                 "found": true,
                 "_source": {
-                  "article_type": "noticia",
-                  "location": "Washington",
-                  "creator": "ricardo.davila@jornada.com.mx",
-                  "word_count": 187,
-                  "modified_date": "2025-05-06T12:44:16.183-06:00",
-                  "tags": [
-                    "TMEC",
-                    "Aranceles",
-                    "Trump",
-                    "Carney",
-                    "Canadá",
-                    "Estados Unidos",
-                    "México"
-                  ],
-                  "style_headline": "default",
-                  "media_images": {
-                    "content_images": [
-                      {
-                        "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension_a1f56913-84fc-4c8c-8d39-5410ddd0c531_media",
-                        "dirbucket": "jornadaimg/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension_a1f56913-84fc-4c8c-8d39-5410ddd0c531_media",
-                        "author": "AP ",
-                        "descripcion": "El presidente Donald Trump habla durante una reunión con el primer ministro canadiense Mark Carney en la Oficina Oval de la Casa Blanca, el martes 6 de mayo de 2025, en Washington. Foto:  "
-                      }
-                    ]
-                  },
-                  "url": "https://www.jornada.com.mx/noticia/2025/05/06/economia/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
-                  "media_videos": {
-                    "content_videos": [
-                    ]
-                  },
-                  "create_date": "2025-05-06T11:41:29.205-06:00",
-                  "uuid": "2acc8590-b27f-4bbe-bcd2-1d5756ab0aa9",
-                  "category": "economia",
-                  "name": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
-                  "body": "<p style=\"text-align:justify;\"><i>Washington</i>. El presidente Donald Trump dijo el martes que él y funcionarios de su gobierno revisarán posibles acuerdos comerciales en las próximas dos semanas para decidir cuáles aceptar.</p><p style=\"text-align:justify;\">Trump y algunos funcionarios dicen que actualmente están negociando muchos acuerdos con países en medio de una guerra comercial que ha amenazado la economía mundial, y el mandatario agregó que espera resultados en las próximas dos semanas.</p><p style=\"text-align:justify;\">Los comentarios se produjeron poco antes de una reunión bilateral entre Trump y el primer ministro canadiense, Mark Carney. El republicano dijo que las negociaciones sobre el TMEC -el tratado entre Estados Unidos, México y Canadá- podrían renegociarse.</p><p style=\"text-align:justify;\">El TMEC se firmó durante el primer mandato de Trump y expira el próximo año.</p><p style=\"text-align:justify;\">Sin embargo, Trump dijo que no está precisamente buscando extender el acuerdo de libre comercio.</p><p style=\"text-align:justify;\">Trump dijo que consideraría una renegociación del acuerdo comercial, pero se preguntó \"si es siquiera necesario\".</p><p style=\"text-align:justify;\">Carney replicó: \"Es una base para una negociación más amplia. Algunas cosas tendrán que cambiar\".</p><p style=\"text-align:justify;\">China quiere negociar un acuerdo comercial para poner fin a los aranceles, dijo Trump. \"Quieren negociar, y quieren tener una reunión (...) Y nos reuniremos con ellos en el momento&nbsp;adecuado\".</p>",
-                  "contents_status": "published",
-                  "alternative_headline": "",
-                  "identifier": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
-                  "related_article": [
-                  ],
-                  "site_type": "online",
-                  "extra_data": {
-                    "content": "<div style=\"position:relative;padding-bottom:56.6%;\"><iframe frameborder=\"0\" width=\"100%\" height=\"100%\" style=\"width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;\" src=\"https://geo.dailymotion.com/player/x16kro.html?video=x9j2sbi\" allowfullscreen allow=\"autoplay; fullscreen; picture-in-picture; web-share\" title=\"Dailymotion video player – Trump plantea renegociar el TMEC y duda de su extensión\"></iframe></div>",
-                    "type": "embed",
-                    "identifier": "",
-                    "uuid": ""
-                  },
-                  "headline": "Trump plantea renegociar el TMEC y duda de su extensión",
-                  "published_date": "2025-05-06T11:38:00.000-06:00",
-                  "author": "Reuters",
-                  "description": "El presidente Donald Trump anunció que su gobierno revisará múltiples acuerdos comerciales en las próximas dos semanas, incluyendo una posible renegociación del TMEC. Afirmó que China busca reanudar conversaciones para poner fin a los aranceles. "
+										"article_type": "galeria",
+										"location": "cdmx",
+										"creator": "sergio.hernandez@jornada.com.mx",
+										"word_count": 1,
+										"modified_date": "2025-05-05T16:22:05.043-06:00",
+										"tags": [
+										],
+										"style_headline": "default",
+										"media_images": {
+											"content_images": [
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_cbe1134d-5629-4646-8241-084c2dff60b6_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_cbe1134d-5629-4646-8241-084c2dff60b6_media",
+													"author": "",
+													"descripcion": "Foto e información: The Independent"
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_d2b982e4-0847-4cbe-ba5d-5799959f7bac_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_d2b982e4-0847-4cbe-ba5d-5799959f7bac_media",
+													"author": "Foto: Wikimedia Commons",
+													"descripcion": ""
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_aab9ce63-7c7e-4180-bf1e-e02bd56015e5_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_aab9ce63-7c7e-4180-bf1e-e02bd56015e5_media",
+													"author": "Foto: Wikimedia Commons",
+													"descripcion": ""
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_19329972-cc4b-4db2-86ce-ae07b7f5594e_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_19329972-cc4b-4db2-86ce-ae07b7f5594e_media",
+													"author": "Foto: AFP",
+													"descripcion": ""
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_04f4710b-3d0f-4b77-a357-20838feb96b7_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_04f4710b-3d0f-4b77-a357-20838feb96b7_media",
+													"author": "Foto: AFP",
+													"descripcion": ""
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_038bf3cc-08f2-463b-ab6b-aea78d96274e_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_038bf3cc-08f2-463b-ab6b-aea78d96274e_media",
+													"author": "Foto: AFP",
+													"descripcion": ""
+												}
+											]
+										},
+										"url": "https://www.jornada.com.mx/galeria/2025/05/05/diaenimagenes/conoce-todo-sobre-met-gala",
+										"media_videos": {
+											"content_videos": [
+											]
+										},
+										"create_date": "2025-05-05T16:03:55.345-06:00",
+										"uuid": "1195cfab-0fd9-4e0d-b9cc-61c0c516c6fc",
+										"category": "diaenimagenes",
+										"name": "conoce-todo-sobre-met-gala",
+										"body": "",
+										"contents_status": "published",
+										"alternative_headline": "",
+										"identifier": "conoce-todo-sobre-met-gala",
+										"related_article": [
+										],
+										"site_type": "online",
+										"extra_data": {
+											"content": "",
+											"type": "empty",
+											"identifier": "",
+											"uuid": ""
+										},
+										"headline": "Este año el Met Gala no solo deslumbra… también RESISTE",
+										"published_date": "2025-05-05T16:03:00.000-06:00",
+										"author": "",
+										"description": "La gala más icónica del año celebra el dandismo negro, explorando cómo los hombres negros han usado el estilo como arma de poder, elegancia y afirmación."
                 }
               },
-              "identifier": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension"
+              "identifier": "conoce-todo-sobre-met-gala"
             },
             {
               "uuid": "lucro-y-corrupcion-desde-la-casa-blanca-eleva-la-fortuna-de-la-familia-presidencial",
@@ -223,86 +246,311 @@
           "name": "carrusel",
           "items": [
             {
+              "uuid": "se-han-identificado-933-mil-viviendas-emproblemadas-infonavit",
+              "data": {
+                "_id": "se-han-identificado-933-mil-viviendas-emproblemadas-infonavit",
+                "_version": 6,
+                "found": true,
+                "_source": {
+                  "article_type": "noticia",
+                  "location": "cdmx ",
+                  "creator": "yssel@jornada.com.mx",
+                  "word_count": 367,
+                  "modified_date": "2025-05-06T11:41:04.163-06:00",
+                  "tags": [
+                    "vivienda",
+                    "infonavit",
+                    "impagables",
+                    "fraudulenta",
+                    "problematicas",
+                    "mañanera"
+                  ],
+                  "style_headline": "default",
+                  "media_images": {
+                    "content_images": [
+                      {
+                        "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/se-han-identificado-933-mil-viviendas-emproblemadas-infonavit/se-han-identificado-933-mil-viviendas-emproblemadas-infonavit_24a53e7c-5cc4-4370-83df-1a9aec3c6ae9_media",
+                        "dirbucket": "jornadaimg/se-han-identificado-933-mil-viviendas-emproblemadas-infonavit/se-han-identificado-933-mil-viviendas-emproblemadas-infonavit_24a53e7c-5cc4-4370-83df-1a9aec3c6ae9_media",
+                        "author": "Foto Cuartoscuro / archivo",
+                        "descripcion": "Octavio Romero Oropeza, director general del Infonavit, durante una conferencia de la presidenta Sheinbaum en Palacio Nacional."
+                      }
+                    ]
+                  },
+                  "url": "https://www.jornada.com.mx/noticia/2025/05/06/politica/se-han-identificado-933-mil-viviendas-emproblemadas-infonavit",
+                  "media_videos": {
+                    "content_videos": [
+                    ]
+                  },
+                  "create_date": "2025-05-06T08:30:37.953-06:00",
+                  "uuid": "3ed0a916-4a50-4462-8545-ed1e11118500",
+                  "category": "politica",
+                  "name": "se-han-identificado-933-mil-viviendas-emproblemadas-infonavit",
+                  "body": "<p style=\"text-align:justify;\"><i>Ciudad de México. </i>El Infonavit tiene detectadas 933 mil viviendas “emproblemadas” ya sea porque se les otorgaron créditos impagables a los derechohabientes; porque se realizaron cobranzas con prácticas fraudulentas, ilegales o se construyeron viviendas alejadas de zonas urbanas, dijo su director, Octavio Romero Oropeza.</p><p style=\"text-align:justify;\">En paralelo, dijo que ya se han presentado 40 demandas y están en curso de presentación 3 mil 400 mas en contra de los despachos que propiciaron estos juicios masivos o en otros casos fueron viviendas vendidas múltiples ocasiones; contra algunos funcionarios del Infonavit que se prestaron a estas prácticas fraudulentas , entre otras.</p><p style=\"text-align:justify;\">Durante la conferencia presidencial , Romero Oropeza dijo se tienen identificas además las casas con algún tipo de conflicto en los créditos: 131 mil viviendas enfrentan juicios masivos irregulares; 216 mil viviendas adjudicadas pero que no han sido escrituradas; 497 mil cuyos créditos muestran un alto grado de adeudos pues desde hace mucho tiempo no pagan y 89 mil viviendas están con problemas pero con créditos Fovisste.</p><p style=\"text-align:justify;\">Al respecto, la presidenta Claudia Sheinbaum dijo que se esta avanzando con el censo especifico de estas 933 mil viviendas, para tener claridad sobre la situación de cada una de las viviendas,el cual esta a cargo de la secretaría del Bienestar. Se trata de tener un diagnóstico claro para impulsar acciones puntuales y opciones para que sean utilizadas estas viviendas.</p><p style=\"text-align:justify;\">En aquellos casos donde están ocupadas por personas ajenas a las que se les entregaron los créditos, determinar si son familias que viven en alta vulnerabilidad a fin de darles alternativas de arrendamiento o de adquisición de estas.</p><p style=\"text-align:justify;\">Romero Oropeza dijo que también se esta revisando la condición crediticia en otros casos. Se tiene un universo de 4 millones 155 mil créditos considerados impagables por la condiciones en que fueron otorgados,a los cuales se les brindarán alternativas.</p><p style=\"text-align:justify;\">A 630 mil derechohabientes se les reducirla la tasa de mensualidad y el saldo; a 240 mil podrán tener acceso a un conjunto de beneficios; 500 mil recibirán una tasa de interés de 4 por ciento y una mensualidad fija; a 1.7 millones se les reducirá la tasa actual de interés con un descuento al saldo con mensualidad fija y un millón 85 mil ya tienen una atención personalizada para revisar sus casos específicos.</p>",
+                  "contents_status": "published",
+                  "alternative_headline": "",
+                  "identifier": "se-han-identificado-933-mil-viviendas-emproblemadas-infonavit",
+                  "related_article": [
+                  ],
+                  "site_type": "online",
+                  "extra_data": {
+                    "content": "",
+                    "type": "empty",
+                    "identifier": "",
+                    "uuid": ""
+                  },
+                  "headline": "Se han identificado 933 mil viviendas \"emproblemadas\": Infonavit ",
+                  "published_date": "2025-05-06T08:23:00.000-06:00",
+                  "author": "Alonso Urrutia y Alma Muñoz",
+                  "description": "Sus derechohabientes obtuvieron créditos impagable, se han realizado cobranzas con prácticas fraudulentas o se construyeron alejadas de zonas urbanas: Oropeza.  "
+                }
+              },
+              "identifier": "se-han-identificado-933-mil-viviendas-emproblemadas-infonavit"
+            },
+            {
+              "uuid": "friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion",
+              "data": {
+                "_id": "friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion",
+                "_version": 6,
+                "found": true,
+                "_source": {
+                  "article_type": "noticia",
+                  "location": "Alemania",
+                  "creator": "pguerrero@jornada.com.mx",
+                  "word_count": 307,
+                  "modified_date": "2025-05-06T09:48:49.450-06:00",
+                  "tags": [
+                    "Friedrich Merz",
+                    "canciller"
+                  ],
+                  "style_headline": "default",
+                  "media_images": {
+                    "content_images": [
+                      {
+                        "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion_09eb61cc-efcf-4c75-b8a7-8fb879e116a6_media",
+                        "dirbucket": "jornadaimg/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion_09eb61cc-efcf-4c75-b8a7-8fb879e116a6_media",
+                        "author": "Foto Ap",
+                        "descripcion": "El líder de los demócratas cristianos, Friedrich Merz, reacciona después de ser elegido nuevo canciller del parlamento federal alemán, Bundestag, en el edificio del Reichstag en Berlín, Alemania, el 6 de mayo de 2025."
+                      },
+                      {
+                        "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion_ff4357b0-780a-407b-be71-b0d4c0053b1e_media",
+                        "dirbucket": "jornadaimg/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion_ff4357b0-780a-407b-be71-b0d4c0053b1e_media",
+                        "author": "Infografía Graphic News",
+                        "descripcion": "El líder conservador alemán Friedrich Merz fue elegido canciller en un segundo voto parlamentario, luego de que su nueva alianza con los socialdemócratas de centroizquierda sufrió una sorprendente derrota en la primera vuelta electoral."
+                      }
+                    ]
+                  },
+                  "url": "https://www.jornada.com.mx/noticia/2025/05/06/mundo/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion",
+                  "media_videos": {
+                    "content_videos": [
+                    ]
+                  },
+                  "create_date": "2025-05-06T08:51:25.698-06:00",
+                  "uuid": "a5d6b109-fc6f-4938-824c-e7627d4ab54e",
+                  "category": "mundo",
+                  "name": "friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion",
+                  "body": "<p><i>Berlín.</i> El día de hoy pasará a la historia. El parlamento alemán, el Bundestag se ha reunido por segunda vez para elegir al nuevo canciller de Alemania después de que el día de hoy en la mañana Friedrich Merz de la Unión Demócrata Cristiana no lograra la mayoría de votos por parte de los diputados del parlamento en la primera ronda de votación. El próximo gobierno estará constituido por una coalición entre La Unión Demócrata Cristiana y el Partido Social Demócrata. En esta unión ambos partidos acordaron apoyar la candidatura de Merz para ocupar el puesto de canciller.&nbsp;</p><p>Ambos partidos han nombrado ya a los miembros que serán los responsables de los ministerios. Lars Klingbeil presidente del Partido Social Demócrata fungirá como vicecanciller y ministro de finanzas.&nbsp;</p><p>En el parlamento alemán se encuentran representados&nbsp; los partidos alemanes que han logrado por lo menos un 5 por ciento de la población votante en las elecciones parlamentarias.</p><p>En este período son un total de 630 diputados cuya distribución es la siguiente: 208 la Unión Demócrata Cristiana y su filial Bávara Unión Social Cristiana. 151 Alternativa para Alemania. 120 Partido Social Demócrata. 85 Partido Verde. 64 La Izquierda. 2 sin partido.</p><p>El día de hoy por la mañana Merz no alcanzó la mayoría de 316 votos para ser elegido canciller; esto fue calificado como un catástrofe y algo nunca visto en la historia de la democracia alemana. El voto es secreto de ahí que quedará siempre en duda si dentro de sus propias filas hubo votos en contra.&nbsp;</p><p>La segunda ronda de votación del dia de hoy fue una propuesta&nbsp; fue una solicitud por parte del Partido Verde y La izquierda. Inicialmente se temía que una segunda ronda pudiera llevarse a cabo entre uno y tres dias después.&nbsp;&nbsp;</p><p>En la segunda votación Merz logró 325 votos lo cual lo convierte en el décimo canciller de Alemania.</p><p><p><img src=\"https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion/friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion_ff4357b0-780a-407b-be71-b0d4c0053b1e_media\" alt=\"Imagen\">Infografía Graphic News</p></p>",
+                  "contents_status": "published",
+                  "alternative_headline": "",
+                  "identifier": "friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion",
+                  "related_article": [
+                  ],
+                  "site_type": "online",
+                  "extra_data": {
+                    "content": "",
+                    "type": "empty",
+                    "identifier": "",
+                    "uuid": ""
+                  },
+                  "headline": "Friedrich Merz, nuevo canciller de Alemania tras una histórica y reñida elección",
+                  "published_date": "2025-05-06T08:42:00.000-06:00",
+                  "author": "Alia Lira Hartmann, Correponsal ",
+                  "description": "El próximo gobierno estará constituido por una coalición entre La Unión Demócrata Cristiana y el Partido Social Demócrata."
+                }
+              },
+              "identifier": "friedrich-merz-nuevo-canciller-de-alemania-tras-apretada-eleccion"
+            },
+            {
+              "uuid": "canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump",
+              "data": {
+                "_id": "canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump",
+                "_version": 5,
+                "found": true,
+                "_source": {
+                  "article_type": "noticia",
+                  "location": "estados unidos",
+                  "creator": "eliane@jornada.com.mx",
+                  "word_count": 75,
+                  "modified_date": "2025-05-06T11:14:22.834-06:00",
+                  "tags": [
+                    "trump",
+                    "mark carney",
+                    "eu canadá"
+                  ],
+                  "style_headline": "default",
+                  "media_images": {
+                    "content_images": [
+                      {
+                        "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump/canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump_14651751-8e80-4669-aeb3-eef5bb6f3e18_media",
+                        "dirbucket": "jornadaimg/canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump/canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump_14651751-8e80-4669-aeb3-eef5bb6f3e18_media",
+                        "author": "Ap",
+                        "descripcion": "El presidente de EU, Donald Trump, recibió en la Casa Blanca al nuevo primer ministro de Canadá, Mark Carney, el 6 de mayo de 2025. Foto "
+                      }
+                    ]
+                  },
+                  "url": "https://www.jornada.com.mx/noticia/2025/05/06/mundo/canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump",
+                  "media_videos": {
+                    "content_videos": [
+                    ]
+                  },
+                  "create_date": "2025-05-06T10:46:15.324-06:00",
+                  "uuid": "c98d08be-439a-4f32-bda8-fe6c1652a8d9",
+                  "category": "mundo",
+                  "name": "canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump",
+                  "body": "<p style=\"text-align:justify;\"><i>Washington. </i>El nuevo primer ministro de Canadá, Mark Carney, advirtió este martes que su país \"nunca estará en venta\" y aseveró que <span style=\"color:black;\">dijo que algunos aspectos del acuerdo comercial entre Canadá, Estados Unidos y México (TMEC) &nbsp;firmado en el primer mandato de Donald Trump, tendrán que cambiar</span>.</p><p style=\"text-align:justify;\"><span style=\"color:black;\">Al reunirse con el</span> presidente estadunidense en la Casa Blanca, Carney aseveró que &nbsp;\"hay lugares que nunca están a la venta\", después de que Trump volvió a señalar que sería \"mejor\" para su vecino convertirse en un estado de Estados Unidos porque sería un \"matrimonio maravilloso\".</p><p style=\"text-align:justify;\">Más aún, luego que Carney reiteró que su país no está en venta, el magnate replicó que “el tiempo lo dirá”.</p><p style=\"text-align:justify;\"><span style=\"color:black;\">Carney señaló que algunos aspectos del acuerdo comercial entre Canadá, Estados Unidos y México, firmado en el primer mandato de Trump, tendrán que cambiar, ya que el mandatario estadunidense también planteó renegociaciones para el pacto comercial que se someterá a revisión en 2026.</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">Trump añadió que le \"encantaría\" alcanzar un nuevo acuerdo comercial con Canadá.</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">A la pregunta de si le gustaría que Canadá fuera el primer país en firmar un acuerdo comercial con Washington, Trump contestó: \"Me encantaría\". \"Tenemos algunos temas difíciles que discutir\", añadió no obstante.</span></p>",
+                  "contents_status": "published",
+                  "alternative_headline": "",
+                  "identifier": "canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump",
+                  "related_article": [
+                  ],
+                  "site_type": "online",
+                  "extra_data": {
+                    "content": "",
+                    "type": "empty",
+                    "identifier": "",
+                    "uuid": ""
+                  },
+                  "headline": "Canadá \"nunca estará en venta\": Carney; el tiempo lo dirá: Trump",
+                  "published_date": "2025-05-06T10:04:00.000-06:00",
+                  "author": "Afp y Reuters",
+                  "description": "El mandatario estadunidense volvió a estimar que sería \"mejor\" para su vecino convertirse en un estado de EU porque sería un \"matrimonio maravilloso\"."
+                }
+              },
+              "identifier": "canada-nunca-estara-en-venta-carney-el-tiempo-lo-dira-trump"
+            },
+            {
+              "uuid": "pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum",
+              "data": {
+                "_id": "pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum",
+                "_version": 4,
+                "found": true,
+                "_source": {
+                  "article_type": "noticia",
+                  "location": "cdmx",
+                  "creator": "eliane@jornada.com.mx",
+                  "word_count": 126,
+                  "modified_date": "2025-05-06T08:55:01.570-06:00",
+                  "tags": [
+                    "sheinbaum",
+                    "mañanera",
+                    "pemex",
+                    "deuda pemex",
+                    "proveedores pemex"
+                  ],
+                  "style_headline": "default",
+                  "media_images": {
+                    "content_images": [
+                      {
+                        "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum/pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum_e5db3d71-0f72-4968-b643-32f6187faa7c_media",
+                        "dirbucket": "jornadaimg/pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum/pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum_e5db3d71-0f72-4968-b643-32f6187faa7c_media",
+                        "author": "Afp / Archivo",
+                        "descripcion": "La presidenta Claudia Sheinbaum subrayó que los pagos se están realizando en Tabasco y Campeche, “y se va avanzando poco a poquito; se ha pagado alrededor de 60 por ciento”. Foto "
+                      }
+                    ]
+                  },
+                  "url": "https://www.jornada.com.mx/noticia/2025/05/06/economia/pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum",
+                  "media_videos": {
+                    "content_videos": [
+                    ]
+                  },
+                  "create_date": "2025-05-06T08:52:11.973-06:00",
+                  "uuid": "f42729b2-4d2f-44d5-bf3f-efce9e82d287",
+                  "category": "economia",
+                  "name": "pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum",
+                  "body": "<p style=\"text-align:justify;\"><i>Ciudad de México.</i> La presidenta Claudia Sheinbaum Pardo informó que Petróleos Mexicanos (Pemex) ha pagado alrededor de 60 por ciento de los adeudos que tenía con proveedores.</p><p style=\"text-align:justify;\">En la mañanera del pueblo, indicó que en Campeche recibió una carta de agradecimiento de la mayoría de los proveedores pequeños del estado que ya recibieron los pagos de sus adeudos.</p><p style=\"text-align:justify;\">“Se siguió una política de que primero fueran los más pequeños y después poco a poco ir con las empresas más grandes, y se están saldando las deudas”, dijo.</p><p style=\"text-align:justify;\">Subrayó que los pagos se están realizando en Tabasco y Campeche, “y se va avanzando poco a poquito; se ha pagado alrededor de 60 por ciento”.</p><p style=\"text-align:justify;\">La mandataria resaltó que no hay <i>coyotes</i> en Infonavit, Fovissste y Pemex.</p>",
+                  "contents_status": "published",
+                  "alternative_headline": "",
+                  "identifier": "pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum",
+                  "related_article": [
+                  ],
+                  "site_type": "online",
+                  "extra_data": {
+                    "content": "",
+                    "type": "empty",
+                    "identifier": "",
+                    "uuid": ""
+                  },
+                  "headline": "Pemex ha pagado cerca de 60% de adeudos con proveedores: Sheinbaum",
+                  "published_date": "2025-05-06T08:45:00.000-06:00",
+                  "author": "Alma E. Muñoz y Alonso Urrutia",
+                  "description": "“Se siguió una política de que primero fueran los más pequeños y después poco a poco ir con las empresas más grandes”; se están saldando deudas, dijo."
+                }
+              },
+              "identifier": "pemex-ha-pagado-cerca-de-60-de-adeudos-con-proveedores-sheinbaum"
+            },
+            {
               "uuid": "leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion",
               "data": {
                 "_id": "leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion",
                 "_version": 5,
                 "found": true,
                 "_source": {
-    "article_type": "galeria",
-    "location": "cdmx",
-    "creator": "sergio.hernandez@jornada.com.mx",
-    "word_count": 1,
-    "modified_date": "2025-05-05T16:22:05.043-06:00",
-    "tags": [
-    ],
-    "style_headline": "default",
-    "media_images": {
-      "content_images": [
-        {
-          "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_cbe1134d-5629-4646-8241-084c2dff60b6_media",
-          "dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_cbe1134d-5629-4646-8241-084c2dff60b6_media",
-          "author": "",
-          "descripcion": "Foto e información: The Independent"
-        },
-        {
-          "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_d2b982e4-0847-4cbe-ba5d-5799959f7bac_media",
-          "dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_d2b982e4-0847-4cbe-ba5d-5799959f7bac_media",
-          "author": "Foto: Wikimedia Commons",
-          "descripcion": ""
-        },
-        {
-          "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_aab9ce63-7c7e-4180-bf1e-e02bd56015e5_media",
-          "dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_aab9ce63-7c7e-4180-bf1e-e02bd56015e5_media",
-          "author": "Foto: Wikimedia Commons",
-          "descripcion": ""
-        },
-        {
-          "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_19329972-cc4b-4db2-86ce-ae07b7f5594e_media",
-          "dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_19329972-cc4b-4db2-86ce-ae07b7f5594e_media",
-          "author": "Foto: AFP",
-          "descripcion": ""
-        },
-        {
-          "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_04f4710b-3d0f-4b77-a357-20838feb96b7_media",
-          "dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_04f4710b-3d0f-4b77-a357-20838feb96b7_media",
-          "author": "Foto: AFP",
-          "descripcion": ""
-        },
-        {
-          "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_038bf3cc-08f2-463b-ab6b-aea78d96274e_media",
-          "dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_038bf3cc-08f2-463b-ab6b-aea78d96274e_media",
-          "author": "Foto: AFP",
-          "descripcion": ""
-        }
-      ]
-    },
-    "url": "https://www.jornada.com.mx/galeria/2025/05/05/diaenimagenes/conoce-todo-sobre-met-gala",
-    "media_videos": {
-      "content_videos": [
-      ]
-    },
-    "create_date": "2025-05-05T16:03:55.345-06:00",
-    "uuid": "1195cfab-0fd9-4e0d-b9cc-61c0c516c6fc",
-    "category": "diaenimagenes",
-    "name": "conoce-todo-sobre-met-gala",
-    "body": "",
-    "contents_status": "published",
-    "alternative_headline": "",
-    "identifier": "conoce-todo-sobre-met-gala",
-    "related_article": [
-    ],
-    "site_type": "online",
-    "extra_data": {
-      "content": "",
-      "type": "empty",
-      "identifier": "",
-      "uuid": ""
-    },
-    "headline": "Este año el Met Gala no solo deslumbra… también RESISTE",
-    "published_date": "2025-05-05T16:03:00.000-06:00",
-    "author": "",
-    "description": "La gala más icónica del año celebra el dandismo negro, explorando cómo los hombres negros han usado el estilo como arma de poder, elegancia y afirmación."
+                  "article_type": "noticia",
+                  "location": "cdmx",
+                  "creator": "eliane@jornada.com.mx",
+                  "word_count": 358,
+                  "modified_date": "2025-05-06T08:39:12.252-06:00",
+                  "tags": [
+                    "club león",
+                    "club pachua",
+                    "tas",
+                    "mundial de clubes",
+                    "mundialito 2025"
+                  ],
+                  "style_headline": "default",
+                  "media_images": {
+                    "content_images": [
+                      {
+                        "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion/leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion_51cc9721-70b4-4fcc-974a-812339e89d1d_media",
+                        "dirbucket": "jornadaimg/leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion/leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion_51cc9721-70b4-4fcc-974a-812339e89d1d_media",
+                        "author": "@clubleonfc ",
+                        "descripcion": "\"La sentencia fue muy dura, los rivales muy influyentes, la presión muy intensa y los intereses muy altos. Como institución asumimos el costo y las consecuencias de un proceso así, pero quien más ha sufrido durante este proceso ha sido nuestra gente\", dijo el León. Foto "
+                      }
+                    ]
+                  },
+                  "url": "https://www.jornada.com.mx/noticia/2025/05/06/deportes/leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion",
+                  "media_videos": {
+                    "content_videos": [
+                    ]
+                  },
+                  "create_date": "2025-05-06T08:39:12.253-06:00",
+                  "uuid": "cac4a5e6-06a6-4859-a17f-a15e4cc533ac",
+                  "category": "deportes",
+                  "name": "leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion",
+                  "body": "<p style=\"text-align:justify;\"><i>Ciudad de México.</i> El León no jugará el Mundial de Clubes 2025. Aunque intentó recuperar su lugar ante el Tribunal de Arbitraje Deportivo (TAS, por sus siglas en inglés), la resolución final e inapelable del organismo estableció que Pachuca y el club León no cumplieron con los criterios del reglamento del torneo (Artículo 10.1) relativos a la multipropiedad de equipos.</p><p style=\"text-align:justify;\">\"El panel examinó las pruebas, incluido el fideicomiso del León establecido por los propietarios del equipo, y concluyó que este fideicomiso era insuficiente para cumplir con el reglamento. En consecuencia, el León sigue excluido de la competición y Pachuca sigue estando calificado. A su debido tiempo se emitirá un laudo completo del TAS con las razones de la decisión”, informó el Tribunal a los clubes implicados.</p><p style=\"text-align:justify;\">Desde el fallo el pasado 21 de marzo del Comité de Apelación, la FIFA excluyó a la institución guanajuatense del <i>Mundialito</i>, a celebrarse del 14 de junio al 13 de julio de 2025. Las reglas del torneo prohíben que más de un equipo tenga los mismos propietarios, por lo que el plantel esmeralda, que pertenece a Grupo Pachuca al igual que los Tuzos, fue castigado.</p><p style=\"text-align:justify;\">El propio Alajuelense de Costa Rica presentó una queja formal a la Comisión Disciplinaria sobre el incumplimiento de dichos criterios y reclamó el lugar que quedaba vacante para la competencia, bajo el argumento de ser el conjunto más ganador de Centroamérica en los últimos años.</p><p style=\"text-align:justify;\">Tras escuchar a todas las partes, el TAS determinó este martes que el León quedó fuera definitivamente del Mundial, debido a que viola la reglamentación de la justa organizada por FIFA.</p><p style=\"text-align:justify;\">El órgano que rige este deporte ya alista un partido de desempate único entre el estadunidense Los Ángeles FC, que perdió la final ante los Panzas Verdes, y el América, mejor ubicado en el ranking de Concacaf, para definir el último cupo.</p><p style=\"text-align:justify;\">\"La sentencia fue muy dura, los rivales muy influyentes, la presión muy intensa y los intereses muy altos. Como institución asumimos el costo y las consecuencias de un proceso así, pero quien más ha sufrido durante este proceso ha sido nuestra gente\", recordó el León en un comunicado.</p>",
+                  "contents_status": "published",
+                  "alternative_headline": "",
+                  "identifier": "leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion",
+                  "related_article": [
+                    {
+                      "uuid": "cbb937e1-e3c0-4c3f-9a68-c3085bfa14cd",
+                      "identifier": "leon-conocera-este-martes-el-veredicto-si-va-al-mundial-de-clubes-tas"
+                    },
+                    {
+                      "uuid": "4baded12-8482-4d50-8f57-84f7f68ce90e",
+                      "identifier": "fifa-ratifica-exclusion-del-leon-en-el-mundial-de-clubes"
+                    }
+                  ],
+                  "site_type": "online",
+                  "extra_data": {
+                    "content": "",
+                    "type": "empty",
+                    "identifier": "",
+                    "uuid": ""
+                  },
+                  "headline": "León, fuera del Mundial de Clubes; el TAS rechaza su apelación",
+                  "published_date": "2025-05-06T08:33:00.000-06:00",
+                  "author": "la redacción",
+                  "description": "El organismo estableció que Pachuca y el club esmeralda no cumplieron con los criterios del reglamento del torneo relativos a la multipropiedad de equipos."
                 }
               },
               "identifier": "leon-fuera-del-mundial-de-clubes-el-tas-rechaza-su-apelacion"
