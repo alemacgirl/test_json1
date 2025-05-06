@@ -34,57 +34,80 @@
                 "_version": 5,
                 "found": true,
                 "_source": {
-                  "article_type": "noticia",
-                  "location": "Washington",
-                  "creator": "ricardo.davila@jornada.com.mx",
-                  "word_count": 187,
-                  "modified_date": "2025-05-06T12:44:16.183-06:00",
-                  "tags": [
-                    "TMEC",
-                    "Aranceles",
-                    "Trump",
-                    "Carney",
-                    "Canadá",
-                    "Estados Unidos",
-                    "México"
-                  ],
-                  "style_headline": "default",
-                  "media_images": {
-                    "content_images": [
-                      {
-                        "displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension_a1f56913-84fc-4c8c-8d39-5410ddd0c531_media",
-                        "dirbucket": "jornadaimg/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension_a1f56913-84fc-4c8c-8d39-5410ddd0c531_media",
-                        "author": "AP ",
-                        "descripcion": "El presidente Donald Trump habla durante una reunión con el primer ministro canadiense Mark Carney en la Oficina Oval de la Casa Blanca, el martes 6 de mayo de 2025, en Washington. Foto:  "
-                      }
-                    ]
-                  },
-                  "url": "https://www.jornada.com.mx/noticia/2025/05/06/economia/trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
-                  "media_videos": {
-                    "content_videos": [
-                    ]
-                  },
-                  "create_date": "2025-05-06T11:41:29.205-06:00",
-                  "uuid": "2acc8590-b27f-4bbe-bcd2-1d5756ab0aa9",
-                  "category": "economia",
-                  "name": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
-                  "body": "<p style=\"text-align:justify;\"><i>Washington</i>. El presidente Donald Trump dijo el martes que él y funcionarios de su gobierno revisarán posibles acuerdos comerciales en las próximas dos semanas para decidir cuáles aceptar.</p><p style=\"text-align:justify;\">Trump y algunos funcionarios dicen que actualmente están negociando muchos acuerdos con países en medio de una guerra comercial que ha amenazado la economía mundial, y el mandatario agregó que espera resultados en las próximas dos semanas.</p><p style=\"text-align:justify;\">Los comentarios se produjeron poco antes de una reunión bilateral entre Trump y el primer ministro canadiense, Mark Carney. El republicano dijo que las negociaciones sobre el TMEC -el tratado entre Estados Unidos, México y Canadá- podrían renegociarse.</p><p style=\"text-align:justify;\">El TMEC se firmó durante el primer mandato de Trump y expira el próximo año.</p><p style=\"text-align:justify;\">Sin embargo, Trump dijo que no está precisamente buscando extender el acuerdo de libre comercio.</p><p style=\"text-align:justify;\">Trump dijo que consideraría una renegociación del acuerdo comercial, pero se preguntó \"si es siquiera necesario\".</p><p style=\"text-align:justify;\">Carney replicó: \"Es una base para una negociación más amplia. Algunas cosas tendrán que cambiar\".</p><p style=\"text-align:justify;\">China quiere negociar un acuerdo comercial para poner fin a los aranceles, dijo Trump. \"Quieren negociar, y quieren tener una reunión (...) Y nos reuniremos con ellos en el momento&nbsp;adecuado\".</p>",
-                  "contents_status": "published",
-                  "alternative_headline": "",
-                  "identifier": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
-                  "related_article": [
-                  ],
-                  "site_type": "online",
-                  "extra_data": {
-                    "content": "<div style=\"position:relative;padding-bottom:56.6%;\"><iframe frameborder=\"0\" width=\"100%\" height=\"100%\" style=\"width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;\" src=\"https://geo.dailymotion.com/player/x16kro.html?video=x9j2sbi\" allowfullscreen allow=\"autoplay; fullscreen; picture-in-picture; web-share\" title=\"Dailymotion video player – Trump plantea renegociar el TMEC y duda de su extensión\"></iframe></div>",
-                    "type": "embed",
-                    "identifier": "",
-                    "uuid": ""
-                  },
-                  "headline": "Trump plantea renegociar el TMEC y duda de su extensión",
-                  "published_date": "2025-05-06T11:38:00.000-06:00",
-                  "author": "Reuters",
-                  "description": "El presidente Donald Trump anunció que su gobierno revisará múltiples acuerdos comerciales en las próximas dos semanas, incluyendo una posible renegociación del TMEC. Afirmó que China busca reanudar conversaciones para poner fin a los aranceles. "
+										"article_type": "galeria",
+										"location": "cdmx",
+										"creator": "sergio.hernandez@jornada.com.mx",
+										"word_count": 1,
+										"modified_date": "2025-05-05T16:22:05.043-06:00",
+										"tags": [
+										],
+										"style_headline": "default",
+										"media_images": {
+											"content_images": [
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_cbe1134d-5629-4646-8241-084c2dff60b6_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_cbe1134d-5629-4646-8241-084c2dff60b6_media",
+													"author": "",
+													"descripcion": "Foto e información: The Independent"
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_d2b982e4-0847-4cbe-ba5d-5799959f7bac_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_d2b982e4-0847-4cbe-ba5d-5799959f7bac_media",
+													"author": "Foto: Wikimedia Commons",
+													"descripcion": ""
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_aab9ce63-7c7e-4180-bf1e-e02bd56015e5_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_aab9ce63-7c7e-4180-bf1e-e02bd56015e5_media",
+													"author": "Foto: Wikimedia Commons",
+													"descripcion": ""
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_19329972-cc4b-4db2-86ce-ae07b7f5594e_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_19329972-cc4b-4db2-86ce-ae07b7f5594e_media",
+													"author": "Foto: AFP",
+													"descripcion": ""
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_04f4710b-3d0f-4b77-a357-20838feb96b7_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_04f4710b-3d0f-4b77-a357-20838feb96b7_media",
+													"author": "Foto: AFP",
+													"descripcion": ""
+												},
+												{
+													"displayphoto": "https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_038bf3cc-08f2-463b-ab6b-aea78d96274e_media",
+													"dirbucket": "jornadaimg/conoce-todo-sobre-met-gala/conoce-todo-sobre-met-gala_038bf3cc-08f2-463b-ab6b-aea78d96274e_media",
+													"author": "Foto: AFP",
+													"descripcion": ""
+												}
+											]
+										},
+										"url": "https://www.jornada.com.mx/galeria/2025/05/05/diaenimagenes/conoce-todo-sobre-met-gala",
+										"media_videos": {
+											"content_videos": [
+											]
+										},
+										"create_date": "2025-05-05T16:03:55.345-06:00",
+										"uuid": "1195cfab-0fd9-4e0d-b9cc-61c0c516c6fc",
+										"category": "diaenimagenes",
+										"name": "conoce-todo-sobre-met-gala",
+										"body": "",
+										"contents_status": "published",
+										"alternative_headline": "",
+										"identifier": "conoce-todo-sobre-met-gala",
+										"related_article": [
+										],
+										"site_type": "online",
+										"extra_data": {
+											"content": "",
+											"type": "empty",
+											"identifier": "",
+											"uuid": ""
+										},
+										"headline": "Este año el Met Gala no solo deslumbra… también RESISTE",
+										"published_date": "2025-05-05T16:03:00.000-06:00",
+										"author": "",
+										"description": "La gala más icónica del año celebra el dandismo negro, explorando cómo los hombres negros han usado el estilo como arma de poder, elegancia y afirmación."
                 }
               },
               "identifier": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension"
