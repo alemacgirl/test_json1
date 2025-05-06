@@ -28,9 +28,9 @@
           "name": "primeraojeada",
           "items": [
             {
-              "uuid": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
+              "uuid": "conoce-todo-sobre-met-gala",
               "data": {
-                "_id": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension",
+                "_id": "conoce-todo-sobre-met-gala",
                 "_version": 5,
                 "found": true,
                 "_source": {
@@ -110,7 +110,7 @@
 										"description": "La gala más icónica del año celebra el dandismo negro, explorando cómo los hombres negros han usado el estilo como arma de poder, elegancia y afirmación."
                 }
               },
-              "identifier": "trump-plantea-renegociar-el-tmec-y-duda-de-su-extension"
+              "identifier": "conoce-todo-sobre-met-gala"
             },
             {
               "uuid": "lucro-y-corrupcion-desde-la-casa-blanca-eleva-la-fortuna-de-la-familia-presidencial",
