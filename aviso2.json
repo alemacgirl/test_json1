@@ -1,0 +1,10 @@
+{
+    "id": "2",
+    "active": true,
+    "hstack": true,
+    "msg1": "mensage 1",
+    "msg2": "mensage 2",
+    "buttonText": "Continuar",
+    "img1": "https://picsum.photos/400/300.jpg",
+    "img2": "https://picsum.photos/400/300.jpg"
+}
