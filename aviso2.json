@@ -1,6 +1,7 @@
 {
     "id": "2",
     "active": true,
+    "preview": false,
     "hstack": true,
     "msg1": "mensage 1",
     "msg2": "mensage 2",
