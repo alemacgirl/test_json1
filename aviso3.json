@@ -1,0 +1,13 @@
+{
+    "id": "1",
+    "active": true,
+    "preview": true,
+    "kind": "text",
+    "hstack": false,
+    "msg1": "txt msg1",
+    "msg2": "txt msg2",
+    "buttonText1": "bt1",
+    "buttonText2": "bt2",
+    "img1": "",
+    "img2": ""
+}
