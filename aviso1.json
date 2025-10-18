@@ -2,6 +2,7 @@
     "id": "1",
     "active": true,
     "preview": true,
+    "kind": "graphic",
     "hstack": false,
     "msg1": "msg1",
     "msg2": "msg2",
